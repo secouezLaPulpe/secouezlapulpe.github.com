@@ -12,8 +12,7 @@
                 <link rel="shortcut icon" href="favicon.ico">
  
                 <!-- mon template.css -->
-                <link rel="stylesheet" type="text/css" href="debugger.css" media="screen"/>
-                <link rel="stylesheet" href="main.css" type="text/css" media="screen" />
+                <link rel="stylesheet" href="main.css" type="text/css" media="screen">
  
         </head>
 
